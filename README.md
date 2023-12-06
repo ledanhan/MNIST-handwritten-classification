@@ -8,7 +8,7 @@
 </picture>
 
 ### Dự án này được thực hiện trên Google Colab.
-### Trước khi thực hiện chương trình, ta cần install các thư viện cần thiết (numpy, keras, matplotlib) sử dụng lệnh sau:
+### Trước khi thực hiện chương trình, ta cần cài đặt các thư viện cần thiết (numpy, keras, matplotlib) và sử dụng lệnh sau: 
 
 ```
 !pip install <tên-thư-viện>
